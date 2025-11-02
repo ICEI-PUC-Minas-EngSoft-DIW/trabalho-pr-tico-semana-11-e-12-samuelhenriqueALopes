@@ -1,18 +1,61 @@
 {
-  "usuarios": [
+  "atracoes": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "id": "1"
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": "2",
+      "titulo": "Hot Park",
+      "descricao": "Um parque aquático com águas termais naturais.",
+      "conteudo": "Localizado em Goiás, o Hot Park é um dos maiores parques aquáticos da América do Sul. Ideal para famílias e aventureiros, oferece piscinas termais, toboáguas e atrações radicais.",
+      "categoria": "Diversão",
+      "localizacao": "Caldas Novas - 400 km",
+      "avaliacao": "★★★★☆",
+      "imagem": "img/HotPark.jpeg",
+      "horario": "09:00 - 18:00",
+      "preco_medio": "R$ 120,00",
+      "fotos_associadas": [
+        "img/hotpark1.png",
+        "img/hotpark2.png",
+        "img/hotpark3.png",
+        "img/hotpark4.png"
+      ]
+    },
+    {
+      "id": "3",
+      "titulo": "Cachoeira do Tabu",
+      "descricao": "Uma queda d’água exuberante em meio à natureza mineira.",
+      "conteudo": "A Cachoeira do Tabu encanta os visitantes com suas águas cristalinas e trilhas ecológicas. Um ótimo destino para quem busca tranquilidade e contato com a natureza.",
+      "categoria": "Natureza",
+      "localizacao": "Minas Gerais - 8km",
+      "avaliacao": "★★★★★",
+      "imagem": "img/CachoeiraTAbu.jpg",
+      "horario": "06:00 - 17:00",
+      "preco_medio": "R$ 15,00",
+      "fotos_associadas": [
+        "img/cachoeiratabu1.png",
+        "img/cachoeiratabu2.png",
+        "img/cachoeiratabu3.png",
+        "img/cachoeiratabu4.png"
+      ]
+    },
+    {
+      "id": "4",
+      "titulo": "Parque Ibirapuera",
+      "descricao": "O parque mais famoso de São Paulo, perfeito para lazer e cultura.",
+      "conteudo": "O Parque Ibirapuera é um dos maiores parques urbanos do Brasil. Conta com áreas verdes, museus, lagos e pistas para caminhada. É o local ideal para atividades físicas e relaxamento.",
+      "categoria": "Parques",
+      "localizacao": "São Paulo - 3km",
+      "avaliacao": "★★★★☆",
+      "imagem": "img/ibirapuera.jpeg",
+      "horario": "05:00 - 22:00",
+      "preco_medio": "Gratuito",
+      "fotos_associadas": [
+        "img/ibirapuera1.png",
+        "img/ibirapuera2.png",
+        "img/ibirapuera3.png",
+        "img/ibirapuera4.png"
+      ]
     }
   ]
 }
