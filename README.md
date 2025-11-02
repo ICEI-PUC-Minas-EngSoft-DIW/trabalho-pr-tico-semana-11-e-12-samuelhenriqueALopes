@@ -6,20 +6,20 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Samuel Henrique Alvarenga e Lopes
+- Matricula: 904718 .
+- Proposta de projeto escolhida: Um site em que é possível ver as atrações próximas a você, sendo separada em categoria, preços e avaliações.
+- Breve descrição sobre seu projeto: Criei um site, para descobrir atrações de um lugar de acordo com valor, horário de funcionamento, se é um lugar com ambiente ecológico, ou parques de diversões, escolha entre os melhores avaliados. O site tem o intuito de facilitar a decisão de qual lugar ir e suas especificações.
 
 **Print dos testes da API com Postman ou similar**
 
-<< COLOQUE A IMAGEM GET AQUI >>
+![DELETE](DELETE.png)
 
-<< COLOQUE A IMAGEM POST AQUI >>
+![GET](GET.png)
 
-<< COLOQUE A IMAGEM PUT AQUI >>
+![POST](POST.png)
 
-<< COLOQUE A IMAGEM DELETE AQUI >>
+![PUT](PUT.png)
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 

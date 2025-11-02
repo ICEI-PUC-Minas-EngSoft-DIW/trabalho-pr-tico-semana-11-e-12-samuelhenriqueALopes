@@ -1,10 +1,25 @@
 {
   "atracoes": [
     {
-      "id": "1"
+      "id": 1,
+      "titulo": "Praia de Copacabana",
+      "descricao": "Um dos cartões-postais mais famosos do Rio de Janeiro.",
+      "conteudo": "A Praia de Copacabana é conhecida mundialmente por sua beleza e por sediar grandes eventos, como o réveillon mais famoso do país. Possui uma orla extensa, calçadão icônico e diversas opções de lazer.",
+      "categoria": "Praias",
+      "localizacao": "Rio de Janeiro - 2km",
+      "avaliacao": "★★★★★",
+      "imagem": "img/copaCabana.jpeg",
+      "horario": "Aberta 24h",
+      "preco_medio": "Gratuito",
+      "fotos_associadas": [
+        "img/copacabana1.png",
+        "img/copacabana2.png",
+        "img/copacabana3.png",
+        "img/copacabana4.png"
+      ]
     },
     {
-      "id": "2",
+      "id": 2,
       "titulo": "Hot Park",
       "descricao": "Um parque aquático com águas termais naturais.",
       "conteudo": "Localizado em Goiás, o Hot Park é um dos maiores parques aquáticos da América do Sul. Ideal para famílias e aventureiros, oferece piscinas termais, toboáguas e atrações radicais.",
@@ -22,7 +37,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": 3,
       "titulo": "Cachoeira do Tabu",
       "descricao": "Uma queda d’água exuberante em meio à natureza mineira.",
       "conteudo": "A Cachoeira do Tabu encanta os visitantes com suas águas cristalinas e trilhas ecológicas. Um ótimo destino para quem busca tranquilidade e contato com a natureza.",
@@ -40,7 +55,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": 4,
       "titulo": "Parque Ibirapuera",
       "descricao": "O parque mais famoso de São Paulo, perfeito para lazer e cultura.",
       "conteudo": "O Parque Ibirapuera é um dos maiores parques urbanos do Brasil. Conta com áreas verdes, museus, lagos e pistas para caminhada. É o local ideal para atividades físicas e relaxamento.",
